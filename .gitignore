@@ -1,0 +1,21 @@
+# build outputs
+build/
+app/build/
+*.apk
+*.aab
+.gradle/
+.kotlin/
+# local / IDE
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+# signing
+*.jks
+*.keystore
+keystore.properties
+# toolchains
+tools/
+jdk*/
+android-sdk/
